@@ -1,0 +1,13 @@
+.footer__links {
+    font-family: 'Inter', Arial, sans-serif;
+    color: #ffffff;
+    margin: 0;
+    display: flex;
+  }
+
+@media screen and (max-width: 655px) {
+  .footer__links {
+    flex-direction: column;
+    justify-content: start;
+}
+}
