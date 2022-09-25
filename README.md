@@ -12,7 +12,7 @@
 
 **Russian travel**
 
-* [Ссылка на проект russian-travel]([https://github.com/llgrish/russian-trave](https://llgrish.github.io/russian-travel/)l)
+* [Ссылка на проект russian-travel](https://llgrish.github.io/russian-travel/)
 
 **Новые знания**
 
