@@ -1,3 +1,6 @@
 .cover__link {
   text-decoration: none;
+  color: #fff;
+  position: relative;
+  z-index: 1;
 }
